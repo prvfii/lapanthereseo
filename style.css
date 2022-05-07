@@ -700,8 +700,9 @@ p {
 }
 
 .social {
-    max-width: 400px;
-    margin: auto auto auto auto;
+    width: 100%;
+    height: auto;
+    margin: 30px;
 }
 
 h2 {
@@ -1050,6 +1051,17 @@ h4 {
     .citation-person-name {
         font-weight: 300; 
         font-size: x-large;
+    }
+
+    .overflow {
+
+        display: none;  
+    }
+
+    .paragraph-footer {
+        font-size: 30px;
+
+       
     }
 
     

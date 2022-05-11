@@ -785,6 +785,12 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.btn-atomic-blackie {
+    background: #F3976C;
+    color: #000000!important;
+
+}
+
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
     color: #FFFFFF!important;

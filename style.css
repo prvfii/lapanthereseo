@@ -109,7 +109,7 @@ a:hover {
 }
 
 .b-parallax {
-    background-attachment: fixed;
+    background-attachment: scroll;
 }
 
 .d-bloc {
@@ -1114,4 +1114,5 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+
 }

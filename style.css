@@ -852,21 +852,9 @@ h4 {
    
 }
 
-.list-nostyle li a {
+.black {
 
-    text-decoration: none;
-    margin: 0px 5px 5px 3px;
-     color: #F3976C;
-    
-    
-
-}
-
-.list-nostyle li:hover  {
-
-     background-color: #F3976C;
-     
-    
+    color: #000000 !important;
 }
 
 
